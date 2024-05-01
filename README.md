@@ -73,7 +73,6 @@
 4. If you have a problem, [contact me](https://wa.me/918811074852?text=Hello%20*master%20Pika~Kun*%20sir...%20I%20need%20some%20help%20in%20Anya%20v2...%20🥲) for help.
 
 ---
-
 ## Thanks to ✨
 - [OldUser](https://github.com/Teamolduser) - ✅ For web and modules compatibility
 - [AdirajShing](https://github.com/adiwajshing/Baileys) - ✅ For a huge library
